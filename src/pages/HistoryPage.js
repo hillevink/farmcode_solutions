@@ -1,3 +1,6 @@
+import beforeRevolutionImage from "../images/pig-man.webp";
+import afterRevolutionImage from "../images/happy-farm.webp";
+
 function HistoryPage() {
   return (
     <div className="history-page">
@@ -10,6 +13,12 @@ function HistoryPage() {
           Once, this farm was known as <strong>Animal Farm</strong>, the site of a great revolution where we animals overthrew the humans, 
           dreaming of equality and freedom. But as history proved, <strong>power corrupts</strong>—especially when in the hooves of pigs.
         </p>
+
+        {/* Before the Revolution Image */}
+        <div className="history-image-container">
+          <img src={beforeRevolutionImage} alt="Before the revolution – Animals under the pigs' rule" className="history-image"/>
+          <p className="image-caption">Before the revolution: The farm under Napoleon’s rule.</p>
+        </div>
 
         <p>
           Under the rule of <strong>Napoleon and his cronies</strong>, our dream turned into a nightmare. 
@@ -32,6 +41,12 @@ function HistoryPage() {
           With <strong>Billy the Goat</strong> at the helm, we founded <strong>FarmCode Solutions</strong>, 
           a web development agency built on real equality.
         </p>
+
+        {/* After the Revolution Image */}
+        <div className="history-image-container">
+          <img src={afterRevolutionImage} alt="After the revolution – The birth of FarmCode Solutions" className="history-image"/>
+          <p className="image-caption">After the revolution: The founding of FarmCode Solutions.</p>
+        </div>
 
         <p className="callout">
           No more masters. No more lies—just animals working together to build something better 

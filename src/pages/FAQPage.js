@@ -67,6 +67,24 @@ function FaqPage() {
       )
     },
     {
+      question: "❓ How can I get a job at FarmCode Solutions?",
+      answer: (
+        <>
+          We’re always looking for talented, hard-working animals who know their way around tech. If you:
+          <ul>
+            <li>✔ Have experience in web development, design, or digital marketing</li>
+            <li>✔ Believe in true equality (not the fake kind the pigs preached)</li>
+            <li>✔ Are not a pig</li>
+          </ul>
+          … then you might have what it takes to join the team! If you’re an animal, just let us know what skills you have and what you bring to the table (bonus points if you don’t eat the table).
+          <br /><br />
+          Humans can apply too, but let’s be honest—you’re probably going to have to work twice as hard to prove you’re trustworthy. Don’t take it personally; history hasn’t exactly been in your favor.
+          <br /><br />
+          Since we don’t have a formal hiring page yet, just send us a message through the <Link to="/contact">Contact Us</Link> page, and we’ll get back to you (unless Gerald the Donkey is handling emails, in which case, be patient).
+        </>
+      )
+    },
+    {
       question: "❓ How can I get started?",
       answer: (
         <>
