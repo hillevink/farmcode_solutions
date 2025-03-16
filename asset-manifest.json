@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/farmcode_solutions/static/css/main.1ec429a7.css",
+    "main.js": "/farmcode_solutions/static/js/main.7cfc4e73.js",
+    "static/js/453.6a80347f.chunk.js": "/farmcode_solutions/static/js/453.6a80347f.chunk.js",
+    "static/media/happy-farm.webp": "/farmcode_solutions/static/media/happy-farm.2d58f55dd0bfded173bb.webp",
+    "static/media/pig-man.webp": "/farmcode_solutions/static/media/pig-man.d048853980431f9448e9.webp",
+    "static/media/horse.webp": "/farmcode_solutions/static/media/horse.bee2a02455a30f05e749.webp",
+    "static/media/cow.webp": "/farmcode_solutions/static/media/cow.993e63dc7107954eb248.webp",
+    "static/media/donkey.webp": "/farmcode_solutions/static/media/donkey.f283ded37dfaa80c1e93.webp",
+    "static/media/goat.webp": "/farmcode_solutions/static/media/goat.caea5eb3403c5756205c.webp",
+    "static/media/farm_collective.webp": "/farmcode_solutions/static/media/farm_collective.0a2a9e41437f43e898c9.webp",
+    "static/media/sheep.webp": "/farmcode_solutions/static/media/sheep.23aa2904ae04df0188b4.webp",
+    "static/media/chicken.webp": "/farmcode_solutions/static/media/chicken.dc76f5b69e74440aeb56.webp",
+    "index.html": "/farmcode_solutions/index.html",
+    "main.1ec429a7.css.map": "/farmcode_solutions/static/css/main.1ec429a7.css.map",
+    "main.7cfc4e73.js.map": "/farmcode_solutions/static/js/main.7cfc4e73.js.map",
+    "453.6a80347f.chunk.js.map": "/farmcode_solutions/static/js/453.6a80347f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec429a7.css",
+    "static/js/main.7cfc4e73.js"
+  ]
+}
